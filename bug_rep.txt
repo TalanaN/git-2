@@ -1,0 +1,16 @@
+Bug-report
+	Authors name :
+	Severity : Major
+	Priority : Medium
+	Description : Some description
+	------------------------------
+	Steps to reproduce :
+		1. Do step 1
+		2. Do step 2
+		3. Do step 3
+	------------------------------
+	Actual and expect results:
+		Actual result : some result 1
+		Expected result : some result 2
+	------------------------------
+	Attachment : n/a
