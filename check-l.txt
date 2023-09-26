@@ -1,0 +1,38 @@
+- Check list for file uploading -
+	Upload new file:
+	1. types of files
+		1.1 jpg
+		1.2 png
+		1.3 webp
+	2. size of files
+		1 kb - 5 Mb
+		2.1 upload file 1 kb size
+		actual result - 
+		expexted result -
+		2.2 upload file 2.4 Mb size
+		actual result - 
+		expexted result -
+		2.3 upload file 5 kb size
+		actual result - 
+		expexted result -
+		=================
+		2.4 upload file less than 1 kb size
+		actual result - 
+		expexted result -
+		2.5 upload file more than 5 Mb size 
+		actual result - 
+		expexted result -
+	3. upload wrong file type (PDF, TIFF, TXT, MP4, EPS)
+		PDF: actual result - 
+		TIFF: actual result - 
+		TXT: actual result - 
+		MP4: actual result - 
+		EPS: actual result - 
+		=================
+		expexted result -
+	4. upload file without name (just extension .*)
+		actual result - 
+		expexted result -
+	5. upload file without extension (just name *.)
+		actual result - 
+		expexted result -
